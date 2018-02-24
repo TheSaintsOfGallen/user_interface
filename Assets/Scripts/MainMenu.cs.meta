@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b2aa74e8e2af0a49b77da0903d32d6b
+timeCreated: 1519469703
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameButtonPrefab: {fileID: 1072016176330332, guid: 26911a0d4fa279c4fa4e0887279a36f0,
+      type: 2}
+  - gameButtonContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
